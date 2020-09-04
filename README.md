@@ -1,1 +1,1 @@
-# exercises_of_python_workout
+# Exercises_of_python_workout
